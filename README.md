@@ -1,14 +1,7 @@
-# User API Dev Guide
+# User API 
 
-## Building
+## Setup
 
 docker-compose up
 build visual studio
 hit play
-
-## Testing
-ran out of time
-
-## Deploying
-
-## Additional Information
